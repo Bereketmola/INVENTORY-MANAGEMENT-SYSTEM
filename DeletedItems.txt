@@ -1,0 +1,5 @@
+IPHONE-11			IPHONE			2019			8			MOBILE			10-$-per-week
+IPHONE-X			APPLE			2019			8			MOBILE			100-$-per-week
+S10			SAMSUNG			2019			20			MOBILE			20-$-per-week
+J7-Edge			SAMSUNG			2018			30			MOBILE			20-$-per-week
+L3Q			LG			2015			4			TV			50-$-per-week
